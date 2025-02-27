@@ -1,3 +1,5 @@
+//G S Navajith 
+//24100781
 #include<stdio.h>
 int check_Triangle(int,int,int);
 int main(){
