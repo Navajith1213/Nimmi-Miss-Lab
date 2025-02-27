@@ -1,3 +1,5 @@
+//G S Navajith 
+//24100781
 #include <stdio.h>
 void Array_add(int arr[],int size);
 void Array_count(int arr[],int size);
